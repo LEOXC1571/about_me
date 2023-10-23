@@ -4,7 +4,7 @@
 
 <instance-profile id="am"
                  name="About Me"
-                 start-page="starter-topic.md">
+                 start-page="aboutme_starter.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="aboutme_starter.md"/>
 </instance-profile>
